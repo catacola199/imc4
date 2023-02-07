@@ -24,37 +24,38 @@
             <div class="row align-items-center">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
                 <div class="slide__content">
-                  <h2 class="slide__title color-white">Providing Best Medical Care</h2>
-                  <p class="slide__desc color-white">The health and well-being of our patients and their health care team will
-                    always be our priority, so we follow the best practices for cleanliness.</p>
+                  <h2 class="slide__title color-white">Caring, Healing and Leading</h2>
+                  <p class="slide__desc color-white">We have a priority of Caring, Healing and Leading
+                    for all our patients in order to improve patients's health
+                  </p>
                   <ul class="features-list list-unstyled mb-0 d-flex flex-wrap">
                     <!-- feature item #1 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-heart"></i>
                       </div>
-                      <h2 class="feature__title color-white">Examination</h2>
+                      <h2 class="feature__title color-white">MCU</h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #2 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-medicine"></i>
                       </div>
-                      <h2 class="feature__title color-white">Prescription </h2>
+                      <h2 class="feature__title color-white">Pharmacy </h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #3 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-heart2"></i>
                       </div>
-                      <h2 class="feature__title color-white">Cardiogram</h2>
+                      <h2 class="feature__title color-white">Laboratory</h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #4 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-blood-test"></i>
                       </div>
-                      <h2 class="feature__title color-white">Blood Pressure</h2>
+                      <h2 class="feature__title color-white">Obstetricians</h2>
                     </li><!-- /.feature-item-->
                   </ul><!-- /.features-list -->
                 </div><!-- /.slide-content -->
@@ -77,28 +78,28 @@
                       <div class="feature__icon">
                         <i class="icon-heart"></i>
                       </div>
-                      <h2 class="feature__title">Examination</h2>
+                      <h2 class="feature__title">MCU</h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #2 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-medicine"></i>
                       </div>
-                      <h2 class="feature__title">Prescription </h2>
+                      <h2 class="feature__title">Pharmacy </h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #3 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-heart2"></i>
                       </div>
-                      <h2 class="feature__title">Cardiogram</h2>
+                      <h2 class="feature__title">Laboratory</h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #4 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-blood-test"></i>
                       </div>
-                      <h2 class="feature__title">Blood Pressure</h2>
+                      <h2 class="feature__title">Obstetricians</h2>
                     </li><!-- /.feature-item-->
                   </ul><!-- /.features-list -->
                 </div><!-- /.slide-content -->
