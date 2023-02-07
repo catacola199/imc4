@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include '_head.php'; ?>
+<?php include 'component/_head.php'; ?>
 
 <body>
   <div class="wrapper">
@@ -12,14 +12,14 @@
     <!-- =========================
         Header
     =========================== -->
-    <?php include '_header.php'; ?>
+    <?php include 'component/_header.php'; ?>
     <!-- ============================
         Slider
     ============================== -->
     <section class="slider">
       <div class="slick-carousel m-slides-0" data-slick='{"slidesToShow": 1, "arrows": true, "dots": false, "speed": 700,"fade": true,"cssEase": "linear"}'>
         <div class="slide-item align-v-h">
-          <div class="bg-img"><img src="assets/images/sliders/1.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/slide1.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row align-items-center">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
@@ -63,7 +63,7 @@
           </div><!-- /.container -->
         </div><!-- /.slide-item -->
         <div class="slide-item align-v-h">
-          <div class="bg-img"><img src="assets/images/sliders/2.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/slide3.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row align-items-center">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
@@ -1252,7 +1252,7 @@
     <!-- ========================
       Footer
     ========================== -->
-    <?php include '_footer.php'; ?>
+    <?php include 'component/_footer.php'; ?>
     <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button>
   </div><!-- /.wrapper -->
 
