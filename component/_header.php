@@ -11,24 +11,22 @@
                                     <div class="emergency__icon">
                                         <i class="icon-call3"></i>
                                     </div>
-                                    <a href="tel:+6281213561966" class="phone__number">
-                                        <i class="icon-phone"></i> <span>6281213561966</span>
+                                    <a href="tel:+6285883029782" class="phone__number">
+                                        <i class="icon-phone"></i> <span>+62 858-8302-9782</span>
                                     </a>
                                     <p>Please feel free to contact our friendly reception staff with any general or medical enquiry.
                                     </p>
-                                    <a href="appointment.html" class="btn btn__secondary btn__link btn__block">
-                                        <span>Make Appointment</span> <i class="icon-arrow-right"></i>
-                                    </a>
+                                    
                                 </div><!-- /.miniPopup-emergency -->
                             </li>
                             <li>
-                                <i class="icon-phone"></i><a href="tel:+5565454117">Emergency Line: 081213561966</a>
+                                <i class="icon-phone"></i><a href="tel:+5565454117">Emergency Line: +62-858-8302-9782</a>
                             </li>
                             <li>
-                                <i class="icon-location"></i><a href="#">Location: Ruko Grand Galaxy City</a>
+                                <i class="icon-location"></i><a href="#">Location:</a>
                             </li>
                             <li>
-                                <i class="icon-clock"></i><a href="contact-us.html">Mon - Fri: 8:00 am - 5:00 pm</a>
+                                <i class="icon-clock"></i><a href="contact-us.html">Mon - Fri: 9:00 am - 5:00 pm</a>
                             </li>
                         </ul><!-- /.contact__list -->
                         <div class="d-flex">
@@ -58,25 +56,8 @@
             </button>
             <div class="collapse navbar-collapse" id="mainNavigation">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav__item has-dropdown">
+                    <li class="nav__item">
                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link active">Home</a>
-                        <ul class="dropdown-menu">
-                            <li class="nav__item">
-                                <a href="index.html" class="nav__item-link">Home Main</a>
-                            </li><!-- /.nav-item -->
-                            <li class="nav__item">
-                                <a href="home-modern.html" class="nav__item-link">Home Modern</a>
-                            </li><!-- /.nav-item -->
-                            <li class="nav__item">
-                                <a href="home-classic.html" class="nav__item-link">Home Classic</a>
-                            </li><!-- /.nav-item -->
-                            <li class="nav__item">
-                                <a href="home-dentist.html" class="nav__item-link">Home Dentist</a>
-                            </li><!-- /.nav-item -->
-                            <li class="nav__item">
-                                <a href="home-pharmacy.html" class="nav__item-link">Home pharmacy</a>
-                            </li><!-- /.nav-item -->
-                        </ul><!-- /.dropdown-menu -->
                     </li><!-- /.nav-item -->
                     <li class="nav__item has-dropdown">
                         <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">About Us</a>

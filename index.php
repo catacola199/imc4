@@ -69,7 +69,7 @@
             <div class="row align-items-center">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
                 <div class="slide__content">
-                  <h2 class="slide__title">All Aspects Of Medical Practice</h2>
+                  <h2 class="slide__title">All Aspects Of Medical Practices</h2>
                   <p class="slide__desc">The health and well-being of our patients and their health care team will
                     always be our priority, so we follow the best practices for cleanliness.</p>
                   <ul class="features-list list-unstyled mb-0 d-flex flex-wrap">
@@ -137,10 +137,10 @@
                 <i class="icon-health-report"></i>
               </div><!-- /.contact__icon -->
               <div class="contact__content">
-                <h2 class="contact__title">Doctors Timetable</h2>
+                <h2 class="contact__title">lisence</h2>
                 <p class="contact__desc">Qualified doctors available six days a week, view our timetable to make an
                   appointment.</p>
-                <a href="doctors-timetable.html" class="btn btn__white btn__outlined btn__rounded">
+                <a href="doctors-timetable.php" class="btn btn__white btn__outlined btn__rounded">
                   <span>View Timetable</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.contact__content -->
@@ -184,19 +184,19 @@
                 <i class="icon-doctor"></i>
               </div>
               <div class="text__content">
-                <p class="heading__desc font-weight-bold color-secondary mb-30">Our goal is to deliver quality of care
-                  in a courteous, respectful, and
-                  compassionate manner. We hope you will allow us to care for you and strive to be the first and best
-                  choice for healthcare.
+                <p class="heading__desc font-weight-bold color-secondary mb-30">
+                  Our goal is to deliver quality of care in a courteous, respectful,
+                  and compassionate manner. We hope you will allow us to care for you
+                  and strive to be the first and best choice for healthcare.
                 </p>
-                <a href="doctors-timetable.html" class="btn btn__secondary btn__rounded mb-70">
+                <a href="doctors-timetable.php" class="btn btn__secondary btn__rounded mb-70">
                   <span>Find A Doctor</span> <i class="icon-arrow-right"></i>
                 </a>
               </div>
             </div>
             <div class="video-banner-layout2 bg-overlay">
-              <img src="assets/images/about/2.jpg" alt="about" class="w-100">
-              <a class="video__btn video__btn-white popup-video" href="https://www.youtube.com/watch?v=nrJtHemSPW4">
+              <img src="assets/images/about/11.jpg" alt="about" class="w-100">
+              <a class="video__btn video__btn-white popup-video" href="https://www.youtube.com/watch?v=BFhsW0LxkOQ">
                 <div class="video__player">
                   <i class="fa fa-play"></i>
                 </div>
@@ -231,164 +231,9 @@
       </div><!-- /.container -->
     </section><!-- /.About Layout 2 -->
 
-    <!-- ========================
-        Services Layout 1
-    =========================== -->
-    <section class="services-layout1 services-carousel">
-      <div class="bg-img"><img src="assets/images/backgrounds/2.jpg" alt="background"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
-            <div class="heading text-center mb-60">
-              <h2 class="heading__subtitle">The Best Medical And General Practice Care!</h2>
-              <h3 class="heading__title">Providing Medical Care For The Sickest In Our Community.</h3>
-            </div><!-- /.heading -->
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-        <div class="row">
-          <div class="col-12">
-            <div class="slick-carousel" data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "autoplay": true, "arrows": false, "dots": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 2}}, {"breakpoint": 767, "settings": {"slidesToShow": 1}}, {"breakpoint": 480, "settings": {"slidesToShow": 1}}]}'>
-              <!-- service item #1 -->
-              <div class="service-item">
-                <div class="service__icon">
-                  <i class="icon-head"></i>
-                  <i class="icon-head"></i>
-                </div><!-- /.service__icon -->
-                <div class="service__content">
-                  <h4 class="service__title">Neurology Clinic</h4>
-                  <p class="service__desc">Some neurologists receive subspecialty training focusing on a particular area
-                    of
-                    the fields, these training programs are called fellowships, and are one to two years.
-                  </p>
-                  <ul class="list-items list-items-layout1 list-unstyled">
-                    <li>Neurocritical Care</li>
-                    <li>Neuro Oncology</li>
-                    <li>Geriatric Neurology</li>
-                  </ul>
-                  <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.service__content -->
-              </div><!-- /.service-item -->
-              <!-- service item #2 -->
-              <div class="service-item">
-                <div class="service__icon">
-                  <i class="icon-heart"></i>
-                  <i class="icon-heart"></i>
-                </div><!-- /.service__icon -->
-                <div class="service__content">
-                  <h4 class="service__title">Cardiology Clinic</h4>
-                  <p class="service__desc">All cardiologists study the disorders of the heart, but the study of adult
-                    and
-                    child heart disorders are trained to take care of small children and adult heart disease.
-                  </p>
-                  <ul class="list-items list-items-layout1 list-unstyled">
-                    <li>Neurocritical Care</li>
-                    <li>Neuro Oncology</li>
-                    <li>Geriatric Neurology</li>
-                  </ul>
-                  <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.service__content -->
-              </div><!-- /.service-item -->
-              <!-- service item #3 -->
-              <div class="service-item">
-                <div class="service__icon">
-                  <i class="icon-microscope"></i>
-                  <i class="icon-microscope"></i>
-                </div><!-- /.service__icon -->
-                <div class="service__content">
-                  <h4 class="service__title">Pathology Clinic</h4>
-                  <p class="service__desc">Pathology is the study of disease, it is the bridge between science and
-                    medicine.
-                    Also it underpins every aspect of patient care, from diagnostic testing and treatment.
-                  </p>
-                  <ul class="list-items list-items-layout1 list-unstyled">
-                    <li>Surgical Pathology</li>
-                    <li>Histopathology</li>
-                    <li>Cytopathology </li>
-                  </ul>
-                  <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.service__content -->
-              </div><!-- /.service-item -->
-              <!-- service item #4 -->
-              <div class="service-item">
-                <div class="service__icon">
-                  <i class="icon-dropper"></i>
-                  <i class="icon-dropper"></i>
-                </div><!-- /.service__icon -->
-                <div class="service__content">
-                  <h4 class="service__title">Laboratory Analysis</h4>
-                  <p class="service__desc">Analyzing the radon or radon progeny concentrations with passive devices, or
-                    the
-                    act of calibrating radon or radon progeny measurement devices.
-                  </p>
-                  <ul class="list-items list-items-layout1 list-unstyled">
-                    <li>Newborn Care</li>
-                    <li>Umbilical Cord Appearance </li>
-                    <li>Repositioning Techniques</li>
-                  </ul>
-                  <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.service__content -->
-              </div><!-- /.service-item -->
-              <!-- service item #5 -->
-              <div class="service-item">
-                <div class="service__icon">
-                  <i class="icon-heart3"></i>
-                  <i class="icon-heart3"></i>
-                </div><!-- /.service__icon -->
-                <div class="service__content">
-                  <h4 class="service__title">Pediatric Clinic</h4>
-                  <p class="service__desc">Pediatric providers see patients from birth into early adulthood to make sure
-                    children achieve stay healthy. Our care includes preventive health checkups.
-                  </p>
-                  <ul class="list-items list-items-layout1 list-unstyled">
-                    <li>Clinical laboratory</li>
-                    <li>Research Analyst</li>
-                    <li>Quality Assurance</li>
-                  </ul>
-                  <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.service__content -->
-              </div><!-- /.service-item -->
-              <!-- service item #6 -->
-              <div class="service-item">
-                <div class="service__icon">
-                  <i class="icon-heart2"></i>
-                  <i class="icon-heart2"></i>
-                </div><!-- /.service__icon -->
-                <div class="service__content">
-                  <h4 class="service__title">Cardiac Clinic</h4>
-                  <p class="service__desc">For people requiring additional follow up, the Cardiac Clinic provides rapid
-                    access to professionals specialized in diagnosing and treating heart disease.
-                  </p>
-                  <ul class="list-items list-items-layout1 list-unstyled">
-                    <li>Macular degeneration</li>
-                    <li>Diabetic retinopathy</li>
-                    <li>Excessive tearing</li>
-                  </ul>
-                  <a href="services-single.html" class="btn btn__secondary btn__outlined btn__rounded">
-                    <span>Read More</span>
-                    <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.service__content -->
-              </div><!-- /.service-item -->
-            </div>
-          </div><!-- /.col-12 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.Services Layout 1 -->
+    <!-- Services Layout 1 -->
+    <?php include 'component/__services.php'; ?>
+    <!-- /.Services Layout 1 -->
 
     <!-- ========================
         Notses
@@ -400,7 +245,7 @@
             <div class="note font-weight-bold">
               <i class="far fa-file-alt color-primary"></i>
               <span>Delivering tomorrow’s health care for your family.</span>
-              <a href="doctors-timetable.html" class="btn btn__link btn__secondary">
+              <a href="doctors-timetable.php" class="btn btn__link btn__secondary">
                 <span>View Doctors’ Timetable</span><i class="icon-arrow-right"></i>
               </a>
             </div>
@@ -416,7 +261,7 @@
                   </div>
                 </div><!-- /.testimonials__rating-inner -->
               </div><!-- /.testimonials__rating -->
-              <a href="appointment.html" class="btn btn__primary btn__rounded">
+              <a href="appointment.php" class="btn btn__primary btn__rounded">
                 <span>Make Appointment</span> <i class="icon-arrow-right"></i>
               </a>
             </div><!-- /.info__meta -->
@@ -428,186 +273,8 @@
     <!-- ======================
     Features Layout 2
     ========================= -->
-    <section class="features-layout2 pt-130 bg-overlay bg-overlay-primary">
-      <div class="bg-img"><img src="assets/images/backgrounds/2.jpg" alt="background"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-8 offset-lg-1">
-            <div class="heading__layout2 mb-50">
-              <h3 class="heading__title color-white">Medcity Has Touched The Lives Of Patients & Providing Care for The
-                Sickest In Our Community.</h3>
-            </div>
-          </div><!-- /col-lg-5 -->
-        </div><!-- /.row -->
-        <div class="row mb-100">
-          <div class="col-sm-3 col-md-3 col-lg-1 offset-lg-5">
-            <div class="heading__icon">
-              <i class="icon-insurance"></i>
-            </div>
-          </div><!-- /.col-lg-5 -->
-          <div class="col-sm-9 col-md-9 col-lg-6">
-            <p class="heading__desc font-weight-bold color-white mb-30">Medcity has been present in Europe since 1990,
-              offering innovative
-              solutions, specializing in medical services for treatment of medical infrastructure. With over 100
-              professionals actively participates in numerous initiatives aimed at creating sustainable change for
-              patients!
-            </p>
-            <a href="#" class="btn btn__white btn__link">
-              <i class="icon-arrow-right icon-filled"></i>
-              <span>Our Core Values</span>
-            </a>
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-        <div class="row">
-          <!-- Feature item #1 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="feature-item">
-              <div class="feature__img">
-                <img src="assets/images/services/1.jpg" alt="service" loading="lazy">
-              </div><!-- /.feature__img -->
-              <div class="feature__content">
-                <div class="feature__icon">
-                  <i class="icon-heart"></i>
-                </div>
-                <h4 class="feature__title">Medical Advices & Check Ups</h4>
-              </div><!-- /.feature__content -->
-              <a href="#" class="btn__link">
-                <i class="icon-arrow-right icon-outlined"></i>
-              </a>
-            </div><!-- /.feature-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Feature item #2 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="feature-item">
-              <div class="feature__img">
-                <img src="assets/images/services/2.jpg" alt="service" loading="lazy">
-              </div><!-- /.feature__img -->
-              <div class="feature__content">
-                <div class="feature__icon">
-                  <i class="icon-doctor"></i>
-                </div>
-                <h4 class="feature__title">Trusted Medical Treatment </h4>
-              </div><!-- /.feature__content -->
-              <a href="#" class="btn__link">
-                <i class="icon-arrow-right icon-outlined"></i>
-              </a>
-            </div><!-- /.feature-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Feature item #3 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="feature-item">
-              <div class="feature__img">
-                <img src="assets/images/services/3.jpg" alt="service" loading="lazy">
-              </div><!-- /.feature__img -->
-              <div class="feature__content">
-                <div class="feature__icon">
-                  <i class="icon-ambulance"></i>
-                </div>
-                <h4 class="feature__title">Emergency Help Available 24/7</h4>
-              </div><!-- /.feature__content -->
-              <a href="#" class="btn__link">
-                <i class="icon-arrow-right icon-outlined"></i>
-              </a>
-            </div><!-- /.feature-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Feature item #4 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="feature-item">
-              <div class="feature__img">
-                <img src="assets/images/services/4.jpg" alt="service" loading="lazy">
-              </div><!-- /.feature__img -->
-              <div class="feature__content">
-                <div class="feature__icon">
-                  <i class="icon-drugs"></i>
-                </div>
-                <h4 class="feature__title">Medical Research Professionals </h4>
-              </div><!-- /.feature__content -->
-              <a href="#" class="btn__link">
-                <i class="icon-arrow-right icon-outlined"></i>
-              </a>
-            </div><!-- /.feature-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Feature item #5 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="feature-item">
-              <div class="feature__img">
-                <img src="assets/images/services/5.jpg" alt="service" loading="lazy">
-              </div><!-- /.feature__img -->
-              <div class="feature__content">
-                <div class="feature__icon">
-                  <i class="icon-first-aid-kit"></i>
-                </div>
-                <h4 class="feature__title">Only Qualified Doctors</h4>
-              </div><!-- /.feature__content -->
-              <a href="#" class="btn__link">
-                <i class="icon-arrow-right icon-outlined"></i>
-              </a>
-            </div><!-- /.feature-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Feature item #6 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="feature-item">
-              <div class="feature__img">
-                <img src="assets/images/services/6.jpg" alt="service" loading="lazy">
-              </div><!-- /.feature__img -->
-              <div class="feature__content">
-                <div class="feature__icon">
-                  <i class="icon-hospital"></i>
-                </div>
-                <h4 class="feature__title">Cutting Edge <br> Facility</h4>
-              </div><!-- /.feature__content -->
-              <a href="#" class="btn__link">
-                <i class="icon-arrow-right icon-outlined"></i>
-              </a>
-            </div><!-- /.feature-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Feature item #7 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="feature-item">
-              <div class="feature__img">
-                <img src="assets/images/services/7.jpg" alt="service" loading="lazy">
-              </div><!-- /.feature__img -->
-              <div class="feature__content">
-                <div class="feature__icon">
-                  <i class="icon-expenses"></i>
-                </div>
-                <h4 class="feature__title">Affordable Prices For All Patients</h4>
-              </div><!-- /.feature__content -->
-              <a href="#" class="btn__link">
-                <i class="icon-arrow-right icon-outlined"></i>
-              </a>
-            </div><!-- /.feature-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Feature item #8 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="feature-item">
-              <div class="feature__img">
-                <img src="assets/images/services/8.jpg" alt="service" loading="lazy">
-              </div><!-- /.feature__img -->
-              <div class="feature__content">
-                <div class="feature__icon">
-                  <i class="icon-bandage"></i>
-                </div>
-                <h4 class="feature__title">Quality Care For Every Patient</h4>
-              </div><!-- /.feature__content -->
-              <a href="#" class="btn__link">
-                <i class="icon-arrow-right icon-outlined"></i>
-              </a>
-            </div><!-- /.feature-item -->
-          </div><!-- /.col-lg-3 -->
-        </div><!-- /.row -->
-        <div class="row">
-          <div class="col-md-12 col-lg-6 offset-lg-3 text-center">
-            <p class="font-weight-bold color-gray mb-0">We hope you will allow us to care for you and strive to be the
-              first and best choice for healthcare.
-              <a href="#" class="color-secondary">
-                <span>Contact Us For More Information</span> <i class="icon-arrow-right"></i>
-              </a>
-            </p>
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.Features Layout 2 -->
+    <?php include 'component/__features.php'; ?>
+    <!-- /.Features Layout 2 -->
 
     <!-- ======================
       Team
@@ -633,12 +300,12 @@
                   <img src="assets/images/team/1.jpg" alt="member img">
                 </div><!-- /.member-img -->
                 <div class="member__info">
-                  <h5 class="member__name"><a href="doctors-single-doctor1.html">Mike Dooley</a></h5>
+                  <h5 class="member__name"><a href="doctors-single-doctor1.php">Mike Dooley</a></h5>
                   <p class="member__job">Cardiology Specialist</p>
                   <p class="member__desc">Muldoone obtained his undergraduate degree in Biomedical Engineering at Tulane
                     University prior to attending St George's University School of Medicine</p>
                   <div class="mt-20 d-flex flex-wrap justify-content-between align-items-center">
-                    <a href="doctors-single-doctor1.html" class="btn btn__secondary btn__link btn__rounded">
+                    <a href="doctors-single-doctor1.php" class="btn btn__secondary btn__link btn__rounded">
                       <span>Read More</span>
                       <i class="icon-arrow-right"></i>
                     </a>
@@ -656,12 +323,12 @@
                   <img src="assets/images/team/2.jpg" alt="member img">
                 </div><!-- /.member-img -->
                 <div class="member__info">
-                  <h5 class="member__name"><a href="doctors-single-doctor1.html">Dermatologists</a></h5>
+                  <h5 class="member__name"><a href="doctors-single-doctor1.php">Dermatologists</a></h5>
                   <p class="member__job">Cardiology Specialist</p>
                   <p class="member__desc">Brian specializes in treating skin, hair, nail, and mucous membrane. He also
                     address cosmetic issues, helping to revitalize the appearance of the skin</p>
                   <div class="mt-20 d-flex flex-wrap justify-content-between align-items-center">
-                    <a href="doctors-single-doctor1.html" class="btn btn__secondary btn__link btn__rounded">
+                    <a href="doctors-single-doctor1.php" class="btn btn__secondary btn__link btn__rounded">
                       <span>Read More</span>
                       <i class="icon-arrow-right"></i>
                     </a>
@@ -679,12 +346,12 @@
                   <img src="assets/images/team/3.jpg" alt="member img">
                 </div><!-- /.member-img -->
                 <div class="member__info">
-                  <h5 class="member__name"><a href="doctors-single-doctor1.html">Maria Andaloro</a></h5>
+                  <h5 class="member__name"><a href="doctors-single-doctor1.php">Maria Andaloro</a></h5>
                   <p class="member__job">Pediatrician</p>
                   <p class="member__desc">Andaloro graduated from medical school and completed 3 years residency program
                     in pediatrics. She passed rigorous exams by the American Board of Pediatrics.</p>
                   <div class="mt-20 d-flex flex-wrap justify-content-between align-items-center">
-                    <a href="doctors-single-doctor1.html" class="btn btn__secondary btn__link btn__rounded">
+                    <a href="doctors-single-doctor1.php" class="btn btn__secondary btn__link btn__rounded">
                       <span>Read More</span>
                       <i class="icon-arrow-right"></i>
                     </a>
@@ -702,13 +369,13 @@
                   <img src="assets/images/team/4.jpg" alt="member img">
                 </div><!-- /.member-img -->
                 <div class="member__info">
-                  <h5 class="member__name"><a href="doctors-single-doctor1.html">Dupree Black</a></h5>
+                  <h5 class="member__name"><a href="doctors-single-doctor1.php">Dupree Black</a></h5>
                   <p class="member__job">Urologist</p>
                   <p class="member__desc">Black diagnose and treat diseases of the urinary tract in both men and women.
                     He
                     also diagnose and treat anything involving the reproductive tract in men.</p>
                   <div class="mt-20 d-flex flex-wrap justify-content-between align-items-center">
-                    <a href="doctors-single-doctor1.html" class="btn btn__secondary btn__link btn__rounded">
+                    <a href="doctors-single-doctor1.php" class="btn btn__secondary btn__link btn__rounded">
                       <span>Read More</span>
                       <i class="icon-arrow-right"></i>
                     </a>
@@ -726,12 +393,12 @@
                   <img src="assets/images/team/5.jpg" alt="member img">
                 </div><!-- /.member-img -->
                 <div class="member__info">
-                  <h5 class="member__name"><a href="doctors-single-doctor1.html">Markus skar</a></h5>
+                  <h5 class="member__name"><a href="doctors-single-doctor1.php">Markus skar</a></h5>
                   <p class="member__job">Laboratory</p>
                   <p class="member__desc">Skar play a very important role in your health care. People working in the
                     clinical laboratory are responsible for conducting tests that provide crucial information.</p>
                   <div class="mt-20 d-flex flex-wrap justify-content-between align-items-center">
-                    <a href="doctors-single-doctor1.html" class="btn btn__secondary btn__link btn__rounded">
+                    <a href="doctors-single-doctor1.php" class="btn btn__secondary btn__link btn__rounded">
                       <span>Read More</span>
                       <i class="icon-arrow-right"></i>
                     </a>
@@ -749,12 +416,12 @@
                   <img src="assets/images/team/6.jpg" alt="member img">
                 </div><!-- /.member-img -->
                 <div class="member__info">
-                  <h5 class="member__name"><a href="doctors-single-doctor1.html">Kiano Barker</a></h5>
+                  <h5 class="member__name"><a href="doctors-single-doctor1.php">Kiano Barker</a></h5>
                   <p class="member__job">Pathologist </p>
                   <p class="member__desc">Barker help care for patients every day by providing their doctors with the
                     information needed to ensure appropriate care. He also valuable resources for other physicians.</p>
                   <div class="mt-20 d-flex flex-wrap justify-content-between align-items-center">
-                    <a href="doctors-single-doctor1.html" class="btn btn__secondary btn__link btn__rounded">
+                    <a href="doctors-single-doctor1.php" class="btn btn__secondary btn__link btn__rounded">
                       <span>Read More</span>
                       <i class="icon-arrow-right"></i>
                     </a>
@@ -896,7 +563,7 @@
               </p>
             </div><!-- /.col-lg-7 -->
             <div class="col-sm-12 col-md-3 col-lg-3">
-              <a href="appointment.html" class="btn btn__primary btn__secondary-style2 btn__rounded">
+              <a href="appointment.php" class="btn btn__primary btn__secondary-style2 btn__rounded">
                 <span>Healthcare Programs</span>
                 <i class="icon-arrow-right"></i>
               </a>
@@ -1097,7 +764,7 @@
               </p>
             </div>
             <div class="d-flex align-items-center">
-              <a href="contact-us.html" class="btn btn__white btn__rounded mr-30">
+              <a href="contact-us.php" class="btn btn__white btn__rounded mr-30">
                 <i class="fas fa-heart"></i> <span>Make A Gift</span>
               </a>
               <a class="video__btn video__btn-white popup-video" href="https://www.youtube.com/watch?v=nrJtHemSPW4">
@@ -1167,7 +834,7 @@
           <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="post-item">
               <div class="post__img">
-                <a href="blog-single-post.html">
+                <a href="blog-single-post.php">
                   <img src="assets/images/blog/grid/1.jpg" alt="post image" loading="lazy">
                 </a>
               </div><!-- /.post__img -->
@@ -1184,7 +851,7 @@
                 <p class="post__desc">It’s normal to feel anxiety, worry and grief any time you’re diagnosed with a
                   condition that’s certainly true if you test positive for COVID-19, or are presumed to be positive...
                 </p>
-                <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                <a href="blog-single-post.php" class="btn btn__secondary btn__link btn__rounded">
                   <span>Read More</span>
                   <i class="icon-arrow-right"></i>
                 </a>
@@ -1195,7 +862,7 @@
           <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="post-item">
               <div class="post__img">
-                <a href="blog-single-post.html">
+                <a href="blog-single-post.php">
                   <img src="assets/images/blog/grid/2.jpg" alt="post image" loading="lazy">
                 </a>
               </div><!-- /.post__img -->
@@ -1211,7 +878,7 @@
                 <p class="post__desc">That means that you should still be following any shelter-in-place orders in your
                   community. But when you’re venturing out to the grocery store, pharmacy or hospital..
                 </p>
-                <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                <a href="blog-single-post.php" class="btn btn__secondary btn__link btn__rounded">
                   <span>Read More</span>
                   <i class="icon-arrow-right"></i>
                 </a>
@@ -1222,7 +889,7 @@
           <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="post-item">
               <div class="post__img">
-                <a href="blog-single-post.html">
+                <a href="blog-single-post.php">
                   <img src="assets/images/blog/grid/3.jpg" alt="post image" loading="lazy">
                 </a>
               </div><!-- /.post__img -->
@@ -1239,7 +906,7 @@
                 <p class="post__desc">It’s normal to feel anxiety, worry and grief any time you’re diagnosed with a
                   condition that’s certainly true if you test positive for COVID-19, or are presumed to be positive...
                 </p>
-                <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                <a href="blog-single-post.php" class="btn btn__secondary btn__link btn__rounded">
                   <span>Read More</span>
                   <i class="icon-arrow-right"></i>
                 </a>
