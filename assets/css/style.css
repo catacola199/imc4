@@ -2557,6 +2557,7 @@ input[type=radio] {
 
 .slick-slide {
   margin: 0 10px;
+  box-sizing: border-box
 }
 
 .m-slides-0 .slick-list {
@@ -2586,6 +2587,8 @@ input[type=radio] {
 .slick-arrow:hover {
   color: #205375;
 }
+
+
 
 .slick-arrow.slick-next:before, .slick-arrow.slick-prev:before {
   font-family: 'icomoon';
@@ -8127,6 +8130,26 @@ textarea.form-control {
   border-radius: 10px;
 }
 
+.gallery-layout2 .gallery-img .popup-gallery-item {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  width: 60px;
+  height: 60px;
+  font-size: 18px;
+  line-height: 60px;
+  border-radius: 50%;
+  text-align: center;
+  color: #213360;
+  background-color: #EFEFEF;
+  -webkit-box-shadow: 0 0 0 9px rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 0 9px rgba(0, 0, 0, 0.15);
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
 .gallery-layout2 .gallery-img .popup-gallery-item {
   position: absolute;
   top: 50%;

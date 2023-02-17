@@ -237,7 +237,10 @@ $(function () {
     });
 
     /*==========   Slick Carousel ==========*/
-    $('.slick-carousel').slick();
+    $('.slick-carousel').slick({
+        
+
+    });
 
     $('.slider-with-navs').slick({
         slidesToShow: 1,

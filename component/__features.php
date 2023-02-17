@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-8 offset-lg-1">
                 <div class="heading__layout2 mb-50">
-                    <h3 class="heading__title color-white">Medcity Has Touched The Lives Of Patients & Providing Care for The
+                    <h3 class="heading__title color-white">IMC Has Touched The Lives Of Patients & Providing Care for The
                         Sickest In Our Community.</h3>
                 </div>
             </div><!-- /col-lg-5 -->
@@ -170,7 +170,7 @@
             <div class="col-md-12 col-lg-6 offset-lg-3 text-center">
                 <p class="font-weight-bold color-gray mb-0">We hope you will allow us to care for you and strive to be the
                     first and best choice for healthcare.
-                    <a href="#" class="color-secondary">
+                    <a href="#" class="color-white">
                         <span>Contact Us For More Information</span> <i class="icon-arrow-right"></i>
                     </a>
                 </p>
