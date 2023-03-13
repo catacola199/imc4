@@ -24,9 +24,9 @@
             <div class="row align-items-center">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
                 <div class="slide__content">
-                  <h2 class="slide__title color-white">Caring, Healing and Leading</h2>
-                  <p class="slide__desc color-white">We have a priority of Caring, Healing and Leading
-                    for all our patients in order to improve patients's health
+                  <h2 class="slide__title color-white">Leading, Caring and Healing</h2>
+                  <p class="slide__desc color-white">Kami memiliki prioritas untuk Leading, Caring and Healing
+                    untuk semua pasien kami untuk meningkatkan kesehatan pasien
                   </p>
                   <ul class="features-list list-unstyled mb-0 d-flex flex-wrap">
                     <!-- feature item #1 -->
@@ -41,21 +41,21 @@
                       <div class="feature__icon">
                         <i class="icon-medicine"></i>
                       </div>
-                      <h2 class="feature__title color-white">Pharmacy </h2>
+                      <h2 class="feature__title color-white">Farmasi </h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #3 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-heart2"></i>
                       </div>
-                      <h2 class="feature__title color-white">Laboratory</h2>
+                      <h2 class="feature__title color-white">Laboratorium</h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #4 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-blood-test"></i>
                       </div>
-                      <h2 class="feature__title color-white">Obstetricians</h2>
+                      <h2 class="feature__title color-white">Dental</h2>
                     </li><!-- /.feature-item-->
                   </ul><!-- /.features-list -->
                 </div><!-- /.slide-content -->
@@ -70,8 +70,8 @@
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
                 <div class="slide__content">
                   <h2 class="slide__title">All Aspects Of Medical Practices</h2>
-                  <p class="slide__desc">The health and well-being of our patients and their health care team will
-                    always be our priority, so we follow the best practices for cleanliness.</p>
+                  <p class="slide__desc">Kesehatan dan kesejahteraan pasien kami akan Selalu menjadi prioritas tim kami,
+                    jadi kami memberikan pelayanan terbaik serta selalu menjaga kebersihan.</p>
                   <ul class="features-list list-unstyled mb-0 d-flex flex-wrap">
                     <!-- feature item #1 -->
                     <li class="feature-item">
@@ -85,21 +85,21 @@
                       <div class="feature__icon">
                         <i class="icon-medicine"></i>
                       </div>
-                      <h2 class="feature__title">Pharmacy </h2>
+                      <h2 class="feature__title">Farmasi </h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #3 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-heart2"></i>
                       </div>
-                      <h2 class="feature__title">Laboratory</h2>
+                      <h2 class="feature__title">Laboratorium</h2>
                     </li><!-- /.feature-item-->
                     <!-- feature item #4 -->
                     <li class="feature-item">
                       <div class="feature__icon">
                         <i class="icon-blood-test"></i>
                       </div>
-                      <h2 class="feature__title">Obstetricians</h2>
+                      <h2 class="feature__title">Dental</h2>
                     </li><!-- /.feature-item-->
                   </ul><!-- /.features-list -->
                 </div><!-- /.slide-content -->
@@ -122,11 +122,10 @@
                 <i class="icon-call3"></i>
               </div><!-- /.contact__icon -->
               <div class="contact__content">
-                <h2 class="contact__title">Emergency Cases</h2>
-                <p class="contact__desc">Please feel free to contact our friendly reception staff with any general or
-                  medical enquiry.</p>
-                <a href="tel:+201061245741" class="phone__number">
-                  <i class="icon-phone"></i> <span>01061245741</span>
+                <h2 class="contact__title">Kasus Darurat</h2>
+                <p class="contact__desc">Jangan ragu untuk menghubungi staff resepsionis kami yang ramah dengan pertanyaan umum atau pertanyaan medis.</p>
+                <a href="tel:+6285883029782" class="phone__number">
+                  <i class="icon-phone"></i> <span>+6285883029782</span>
                 </a>
               </div><!-- /.contact__content -->
             </div><!-- /.contact-box -->
@@ -138,11 +137,14 @@
               </div><!-- /.contact__icon -->
               <div class="contact__content">
                 <h2 class="contact__title">lisence</h2>
-                <p class="contact__desc">Qualified doctors available six days a week, view our timetable to make an
-                  appointment.</p>
-                <a href="doctors-timetable.php" class="btn btn__white btn__outlined btn__rounded">
-                  <span>View Timetable</span><i class="icon-arrow-right"></i>
-                </a>
+                <p class="contact__desc">
+                <ul class="color-white">
+                  <li>ISO 9001</li>
+                  <li>PJK3</li>
+                  <li>Izin Operasional Klinik</li>
+                </ul>
+                </p>
+
               </div><!-- /.contact__content -->
             </div><!-- /.contact-box -->
           </div><!-- /.col-md-4 -->
@@ -154,9 +156,9 @@
               <div class="contact__content">
                 <h2 class="contact__title">Opening Hours</h2>
                 <ul class="time__list list-unstyled mb-0">
-                  <li><span>Monday - Friday</span><span>8.00 - 7:00 pm</span></li>
-                  <li><span>Saturday</span><span>9.00 - 10:00 pm</span></li>
-                  <li><span>Sunday</span><span>10.00 - 12:00 pm</span></li>
+                  <li><span>Sen - Jum |</span><span>09.00 - 17.00 WIB</span></li>
+                  <li><span>Sabtu |</span><span>10.00 - 17.00 WIB</span></li>
+                  <li><span>Minggu |</span><span>09.00 - 17.00 WIB</span></li>
                 </ul>
               </div><!-- /.contact__content -->
             </div><!-- /.contact-box -->
@@ -173,7 +175,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-7 offset-lg-1">
             <div class="heading-layout2">
-              <h3 class="heading__title mb-60">Improving The Quality Of Your <br> Life Through Better Health.</h3>
+              <h3 class="heading__title mb-60">Meningkatkan Kualitas Hidup Anda, Dengan Kesehatan yang Lebih Baik.</h3>
             </div><!-- /heading -->
           </div><!-- /.col-12 -->
         </div><!-- /.row -->
@@ -185,9 +187,8 @@
               </div>
               <div class="text__content">
                 <p class="heading__desc font-weight-bold color-secondary mb-30">
-                  Our goal is to deliver quality of care in a courteous, respectful,
-                  and compassionate manner. We hope you will allow us to care for you
-                  and strive to be the first and best choice for healthcare.
+                  Tujuan kami adalah memberikan perawatan berkualitas dengan cara yang sopan, penuh hormat, dan penuh kasih sayang.
+                  Kami harap Anda mengizinkan kami untuk merawat Anda dan berusaha untuk menjadi yang pertama dan terbaik dalam hal perawatan kesehatan.
                 </p>
                 <a href="doctors-timetable.php" class="btn btn__secondary btn__rounded mb-70 ">
                   <span>Find A Doctor</span> <i class="icon-arrow-right"></i>
@@ -206,24 +207,16 @@
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-7">
             <div class="about__text bg-white">
-              <p class="heading__desc mb-30">Our goal is to deliver quality of care in a courteous, respectful, and
-                compassionate
-                manner. We hope you will allow us to care for you and to be the first and best choice for healthcare.
+              <p class="heading__desc mb-30">Tujuan kami adalah memberikan perawatan berkualitas dengan cara yang sopan, penuh hormat, dan penuh kasih sayang.
+                Kami berharap Anda mengizinkan kami untuk merawat Anda dan menjadi pilihan pertama dan terbaik untuk perawatan kesehatan.
               </p>
-              <p class="heading__desc mb-30">We will work with you to develop individualised care plans, including
-                management of
-                chronic diseases. We are committed to being the region’s premier healthcare network providing patient
-                centered care that inspires clinical and service excellence.</p>
+              <p class="heading__desc mb-30">Kami akan bekerja sama dengan Anda untuk mengembangkan rencana perawatan individual, termasuk pengelolaan penyakit kronis.
+                Kami berkomitmen untuk menjadi jaringan perawatan kesehatan utama di kawasan ini yang menyediakan perawatan yang berpusat pada pasien yang menginspirasi
+                keunggulan klinis dan layanan.</p>
               <ul class="list-items list-unstyled">
-                <li>We conduct a range of tests to help us work out why you're not feeling well and determine the
-                  right
-                  treatment for you.</li>
-                <li>Our expert doctors, nurses and allied health professionals manage patients with a broad range of
-                  medical issues.
-                </li>
-                <li>We offer a wide range of care and support to our patients, from diagnosis to treatment and
-                  rehabilitation.
-                </li>
+                <li>Kami melakukan serangkaian tes untuk membantu kami mengetahui mengapa Anda merasa tidak enak badan dan menentukan perawatan yang tepat untuk Anda.</li>
+                <li>Dokter ahli, perawat, dan profesional kesehatan terkait kami menangani pasien dengan berbagai masalah medis.</li>
+                <li>Kami menawarkan berbagai macam perawatan dan dukungan kepada pasien kami, mulai dari diagnosis hingga perawatan dan rehabilitasi.</li>
               </ul>
             </div>
           </div><!-- /.col-lg-6 -->
@@ -290,18 +283,16 @@
       <div class="container">
         <div class="row heading-layout2">
           <div class="col-12">
-            <h2 class="heading__subtitle color-white">Caring For The Health Of You And Your Family.</h2>
+            <h2 class="heading__subtitle color-white">Merawat Kesehatan Anda dan Keluarga Anda.</h2>
           </div><!-- /.col-12 -->
           <div class="col-sm-12 col-md-12 col-lg-6 col-xl-5">
-            <h3 class="heading__title color-white">We Provide the fast response and easy way to serve all patients whenever and wherever
+            <h3 class="heading__title color-white">Kami Memberikan Respon Cepat Dan Cara Mudah Untuk Melayani Semua Pasien Kapanpun Dan Dimanapun
             </h3>
           </div><!-- /.col-xl-5 -->
           <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 offset-xl-1">
-            <p class="heading__desc font-weight-bold color-gray mb-40">We will work with you to develop individualised
-              care
-              plans, including
-              management of chronic diseases. If we cannot assist, we can provide referrals or advice about the type of
-              practitioner you require. We treat all enquiries sensitively and in the strictest confidence.
+            <p class="heading__desc font-weight-bold color-gray mb-40">Kami akan bekerja sama dengan Anda untuk mengembangkan rencana perawatan individual,
+              termasuk pengelolaan penyakit kronis. Jika kami tidak dapat membantu, kami dapat memberikan rujukan atau saran mengenai jenis praktisi yang Anda perlukan.
+              Kami memperlakukan semua pertanyaan secara sensitif dan dengan kerahasiaan yang tinggi.
             </p>
             <ul class="list-items list-items-layout2 list-items-light list-horizontal list-unstyled">
               <li>Fractures and dislocations</li>
@@ -322,7 +313,7 @@
                   <div class="process__icon">
                     <i class="icon-health-report"></i>
                   </div><!-- /.process__icon -->
-                  <h4 class="process__title">Fill in our medical appointment</h4>
+                  <h4 class="process__title">Mengisi janji temu medis kami</h4>
                   <p class="process__desc">Medcity offers low-cost health coverage for adults with limited income, you
                     can
                     enroll.</p>
@@ -337,7 +328,7 @@
                   <div class="process__icon">
                     <i class="icon-dna"></i>
                   </div><!-- /.process__icon -->
-                  <h4 class="process__title">Our team will review patient's needs and make schedule</h4>
+                  <h4 class="process__title">Tim kami akan membuat jadwal</h4>
                   <p class="process__desc">Regular health exams can help find all the problems, also can find it early
                     chances.</p>
                   <a href="#" class="btn btn__secondary btn__link">
@@ -351,7 +342,7 @@
                   <div class="process__icon">
                     <i class="icon-medicine"></i>
                   </div><!-- /.process__icon -->
-                  <h4 class="process__title">Our team will visit the patient's</h4>
+                  <h4 class="process__title">Tim kami akan mengunjungi pasien</h4>
                   <p class="process__desc">We have protocols to protect our patients while continuing to provide
                     necessary
                     care.</p>
@@ -366,7 +357,7 @@
                   <div class="process__icon">
                     <i class="icon-stethoscope"></i>
                   </div><!-- /.process__icon -->
-                  <h4 class="process__title">Result and observations</h4>
+                  <h4 class="process__title">Hasil dan pengamatan</h4>
                   <p class="process__desc">Our administration and support staff have exceptional skills and trained to
                     assist you. </p>
                   <a href="#" class="btn btn__secondary btn__link">
@@ -375,11 +366,11 @@
                   </a>
                 </div><!-- /.process-item -->
                 <!-- process-item #5 -->
-                <div class="process-item">
+                <!-- <div class="process-item">
                   <span class="process__number">05</span>
                   <div class="process__icon">
                     <i class="icon-head"></i>
-                  </div><!-- /.process__icon -->
+                  </div>
                   <h4 class="process__title">Your custom Next process</h4>
                   <p class="process__desc">Our administration and support staff have exceptional skills to assist you.
                   </p>
@@ -387,7 +378,7 @@
                     <span>Meet Our Doctors</span>
                     <i class="icon-arrow-right"></i>
                   </a>
-                </div><!-- /.process-item -->
+                </div> -->
               </div><!-- /.carousel -->
             </div>
           </div><!-- /.col-12 -->
@@ -400,13 +391,13 @@
               <img src="assets/images/icons/alert2.png" alt="alert">
             </div><!-- /.col-lg-2 -->
             <div class="col-sm-12 col-md-7 col-lg-7">
-              <h4 class="cta__title">True Healthcare For Your Family!</h4>
-              <p class="cta__desc">Serve the community by improving the quality of life through better health. We have
-                put protocols to protect our patients and staff while continuing to provide medically necessary care.
+              <h4 class="cta__title">Perawatan Kesehatan Untuk Keluarga Anda!</h4>
+              <p class="cta__desc">Melayani masyarakat dengan meningkatkan kualitas hidup melalui kesehatan yang lebih baik.
+                Kami memiliki menerapkan protokol untuk melindungi pasien dan staf kami sambil terus memberikan perawatan yang diperlukan secara medis.
               </p>
             </div><!-- /.col-lg-7 -->
             <div class="col-sm-12 col-md-3 col-lg-3">
-              <a href="appointment.php" class="btn btn__primary btn__secondary-style2 btn__rounded">
+              <a href="appointment.php" class="btn btn__primary btn__secondary-style2 btn__rounded color-white">
                 <span>Healthcare Programs</span>
                 <i class="icon-arrow-right"></i>
               </a>
@@ -463,26 +454,26 @@
               <div class="slider-with-navs">
                 <!-- Testimonial #1 -->
                 <div class="testimonial-item">
-                  <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who come from a
-                    range of backgrounds and bring with them a diversity of skills and special interests. They also have
-                    registered nurses on staff who are available to triage any urgent matters, and the administration
-                    and support staff all have exceptional people skills”
+                  <h3 class="testimonial__title">“Dokter mereka termasuk praktisi berkualifikasi tinggi yang berasal dari
+                    yang berasal dari berbagai latar belakang dan membawa serta beragam keterampilan dan minat khusus.
+                    Mereka juga memiliki perawat terdaftar yang siap sedia untuk melakukan triase untuk hal-hal yang mendesak, dan
+                    administrasi administrasi dan staf pendukung semuanya memiliki keterampilan orang yang luar biasa”
                   </h3>
                 </div><!-- /. testimonial-item -->
                 <!-- Testimonial #2 -->
                 <div class="testimonial-item">
-                  <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who come from a
-                    range of backgrounds and bring with them a diversity of skills and special interests. They also have
-                    registered nurses on staff who are available to triage any urgent matters, and the administration
-                    and support staff all have exceptional people skills”
+                  <h3 class="testimonial__title">“Dokter mereka termasuk praktisi berkualifikasi tinggi yang berasal dari
+                    yang berasal dari berbagai latar belakang dan membawa serta beragam keterampilan dan minat khusus.
+                    Mereka juga memiliki perawat terdaftar yang siap sedia untuk melakukan triase untuk hal-hal yang mendesak, dan
+                    administrasi administrasi dan staf pendukung semuanya memiliki keterampilan orang yang luar biasa”
                   </h3>
                 </div><!-- /. testimonial-item -->
                 <!-- Testimonial #3 -->
                 <div class="testimonial-item">
-                  <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who come from a
-                    range of backgrounds and bring with them a diversity of skills and special interests. They also have
-                    registered nurses on staff who are available to triage any urgent matters, and the administration
-                    and support staff all have exceptional people skills”
+                  <h3 class="testimonial__title">“Dokter mereka termasuk praktisi berkualifikasi tinggi yang berasal dari
+                    yang berasal dari berbagai latar belakang dan membawa serta beragam keterampilan dan minat khusus.
+                    Mereka juga memiliki perawat terdaftar yang siap sedia untuk melakukan triase untuk hal-hal yang mendesak, dan
+                    administrasi administrasi dan staf pendukung semuanya memiliki keterampilan orang yang luar biasa”
                   </h3>
                 </div><!-- /. testimonial-item -->
               </div><!-- /.slick-carousel -->

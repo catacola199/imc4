@@ -4,8 +4,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-8 offset-lg-1">
                 <div class="heading__layout2 mb-50">
-                    <h3 class="heading__title color-white">IMC Has Touched The Lives Of Patients & Providing Care for The
-                        Sickest In Our Community.</h3>
+                    <h3 class="heading__title color-white">IMC Telah Menyentuh Kehidupan Pasien & Memberikan Perawatan Bagi Yang Paling Sakit di Komunitas Kami.</h3>
                 </div>
             </div><!-- /col-lg-5 -->
         </div><!-- /.row -->
@@ -17,13 +16,10 @@
             </div><!-- /.col-lg-5 -->
             <div class="col-sm-9 col-md-9 col-lg-6">
                 <p class="heading__desc font-weight-bold color-white mb-30">
-                    IMC has experience to serve patients with their mission : caring, healing and leading.
-                    IMC already help's a lot of people by diagnosing the patients life.
+                    IMC memiliki pengalaman dalam melayani pasien dengan misi mereka: Leading, Caring and Healing.
+                    IMC telah membantu banyak orang dengan mendiagnosa kehidupan pasien.
                 </p>
-                <a href="#" class="btn btn__white btn__link">
-                    <i class="icon-arrow-right icon-filled"></i>
-                    <span>Our Core Values</span>
-                </a>
+
             </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
         <div class="row">
@@ -37,7 +33,7 @@
                         <div class="feature__icon">
                             <i class="icon-ambulance"></i>
                         </div>
-                        <h4 class="feature__title">Fast Response</h4>
+                        <h4 class="feature__title">Respon Cepat</h4>
                     </div><!-- /.feature__content -->
                     <a href="#" class="btn__link">
                         <i class="icon-arrow-right icon-outlined"></i>
@@ -71,7 +67,7 @@
                         <div class="feature__icon">
                             <i class="icon-doctor"></i>
                         </div>
-                        <h4 class="feature__title">Trusted Medical Treatment </h4>
+                        <h4 class="feature__title">Perawatan Medis Terpercaya </h4>
                     </div><!-- /.feature__content -->
                     <a href="#" class="btn__link">
                         <i class="icon-arrow-right icon-outlined"></i>
@@ -89,7 +85,7 @@
                         <div class="feature__icon">
                             <i class="icon-drugs"></i>
                         </div>
-                        <h4 class="feature__title">Medical Expert</h4>
+                        <h4 class="feature__title">Ahli Medis</h4>
                     </div><!-- /.feature__content -->
                     <a href="#" class="btn__link">
                         <i class="icon-arrow-right icon-outlined"></i>
@@ -106,7 +102,7 @@
                         <div class="feature__icon">
                             <i class="icon-first-aid-kit"></i>
                         </div>
-                        <h4 class="feature__title">Highly Qualification Staff</h4>
+                        <h4 class="feature__title">Staf Berkualifikasi Tinggi</h4>
                     </div><!-- /.feature__content -->
                     <a href="#" class="btn__link">
                         <i class="icon-arrow-right icon-outlined"></i>
@@ -123,7 +119,7 @@
                         <div class="feature__icon">
                             <i class="icon-hospital"></i>
                         </div>
-                        <h4 class="feature__title">Medical Services On Site </h4>
+                        <h4 class="feature__title">Layanan Medis di Lokasi</h4>
                     </div><!-- /.feature__content -->
                     <a href="#" class="btn__link">
                         <i class="icon-arrow-right icon-outlined"></i>
@@ -140,7 +136,7 @@
                         <div class="feature__icon">
                             <i class="icon-expenses"></i>
                         </div>
-                        <h4 class="feature__title">Affordable Prices For All Patients</h4>
+                        <h4 class="feature__title">Harga Terjangkau Untuk Semua Pasien</h4>
                     </div><!-- /.feature__content -->
                     <a href="#" class="btn__link">
                         <i class="icon-arrow-right icon-outlined"></i>
@@ -157,7 +153,7 @@
                         <div class="feature__icon">
                             <i class="icon-bandage"></i>
                         </div>
-                        <h4 class="feature__title">Quality Care For Every Patient</h4>
+                        <h4 class="feature__title">Perawatan Berkualitas Untuk Setiap Pasien</h4>
                     </div><!-- /.feature__content -->
                     <a href="#" class="btn__link">
                         <i class="icon-arrow-right icon-outlined"></i>
@@ -168,11 +164,8 @@
         </div><!-- /.row -->
         <div class="row">
             <div class="col-md-12 col-lg-6 offset-lg-3 text-center">
-                <p class="font-weight-bold color-gray mb-0">We hope you will allow us to care for you and strive to be the
-                    first and best choice for healthcare.
-                    <a href="#" class="color-white">
-                        <span>Contact Us For More Information</span> <i class="icon-arrow-right"></i>
-                    </a>
+                <p class="font-weight-bold color-gray mb-0">Kami berharap Anda akan mengizinkan kami untuk merawat Anda dan berusaha untuk menjadi pilihan pertama dan terbaik untuk perawatan kesehatan.
+
                 </p>
             </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
